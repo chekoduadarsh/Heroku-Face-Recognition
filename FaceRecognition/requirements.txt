@@ -1,0 +1,14 @@
+PyQt5
+SpeechRecognition
+pyttsx3
+glob
+argparse
+pandas
+gtts
+numpy
+opencv-python
+requests
+progressbar
+tensorflow
+keras
+cvlib
